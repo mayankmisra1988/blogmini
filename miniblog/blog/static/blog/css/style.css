@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(138, 131, 131);
+    color: antiquewhite;
+}
+.form-control{
+    color: rgb(88, 86, 86);
+}
+
+
+.jumbo-color{
+    background-color: rgb(198, 188, 188);
+    color: hsl(120, 5%, 4%);
+}
+.errorlist{
+    color: coral;
+}
